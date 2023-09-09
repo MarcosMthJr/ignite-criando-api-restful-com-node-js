@@ -1,0 +1,20 @@
+{
+  "name": "ignite-criando-api-restful-com-node",
+  "version": "1.0.0",
+  "description": "Repositório para armazenar o código desenvolvido durante o curso de node da Rocketseat  ( ignite )",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.9",
+    "tsx": "^3.12.8",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "fastify": "^4.22.2"
+  }
+}
