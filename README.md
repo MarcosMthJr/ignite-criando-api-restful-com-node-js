@@ -4,8 +4,6 @@ Esse é um projeto didático, desenvolvido com o apoio do material do módulo de
 
 O escopo do projeto está relacionado ao gerenciamento de transações financeiras.
 
-
-
 # Documentação da API
 
 ## Rotas da aplicação
@@ -112,7 +110,7 @@ Falha de autorização: Status Code `401`
 ```json
 {
 	"error": "Unauthorized"
-}`
+}
  ```
 Ocorre quando o Cookie passado não possui transações.
 ## Stack utilizada
